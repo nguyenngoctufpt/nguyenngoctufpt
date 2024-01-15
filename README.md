@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **FPT **
+ 🔭 I’m currently working on FPT HA NOI
  
  🌱 I’m currently learning **FPT POLYTECHNIC HA NOI VIET NAM**
 
