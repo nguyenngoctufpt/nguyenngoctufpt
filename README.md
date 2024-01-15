@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **FPT**
  
  🌱 I’m currently learning **FPT,HA NOI,VIET NAM**
 
