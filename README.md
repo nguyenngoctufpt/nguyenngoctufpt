@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on FPT HA NOI
+ 🔭 I’m currently working on FPT Software HA NOI
  
- 🌱 I’m currently learning **FPT POLYTECHNIC HA NOI VIET NAM**
+ 🌱 I’m currently learning **FPT HA NOI VIET NAM**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/nguyenngoctufpt)**
 
