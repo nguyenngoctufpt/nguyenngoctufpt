@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on FPT Software HA NOI
+ 🔭 I’m currently working on FPT HA NOI VIET NAM
  
  🌱 I’m currently learning **FPT HA NOI VIET NAM**
 
@@ -19,8 +19,10 @@
 <div align="center"> 
   <a href="ngoctufpt203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+   <a href="ngoctufpt203@gmail.com">
+    <img src="https://icons8.com/icon/118467/facebook" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-t%C3%BA-a52822263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/nguyenngoctufpt" target="_blank">
