@@ -29,6 +29,18 @@
 
 <hr/>
 
+<h2 align="center">✨ Highlights ✨</h2>
+
+<ul>
+  <li>🚀 Founder & Developer of <strong>StudyMate AI</strong> – Nền tảng học tập ứng dụng Trí tuệ Nhân tạo</li>
+  <li>🛠️ Hơn 20+ dự án cá nhân và nhóm với React, Node.js, Firebase</li>
+  <li>🏆 Top Contributor trên các nền tảng GitHub & LeetCode</li>
+  <li>🎓 Sinh viên FPT University, chuyên ngành Kỹ thuật phần mềm</li>
+  <li>💡 Đam mê công nghệ, thiết kế trải nghiệm người dùng và xây dựng sản phẩm có ích cho cộng đồng</li>
+</ul>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
