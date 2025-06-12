@@ -46,8 +46,6 @@
   <a href="https://www.linkedin.com/feed/update/urn:li:share:7334050083421753345" target="_blank">
     <img src="https://img.shields.io/badge/Xem%20bài%20đăng%20nổi%20bật%20trên%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post" />
   </a>
-  <br/><br/>
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7334050083421753345" height="479" width="504" frameborder="0" allowfullscreen title="Bài đăng được nhúng"></iframe>
 </div>
 
 <hr/>
