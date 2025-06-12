@@ -1,12 +1,14 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h3 align="center">A passionate software developer Mobile app development from VietNam</h3>
+<h1 align="center" style="font-weight: bold; font-size: 3em; color: #0f62fe; text-shadow: 2px 2px #000;">🚀 NGUYỄN NGỌC TÚ — MOBILE & GAME DEV</h1>
+
+<h3 align="center">A passionate mobile app & game developer from VietNam</h3>
 
 <div align="center">
  
- 🔭 I’m currently working on FPT HA NOI VIET NAM  
- 🌱 I’m currently learning **FPT HA NOI VIET NAM**  
- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/nguyenngoctufpt)**  
+ 🔭 I’m currently studying at FPT Polytechnic College, majoring in Mobile Programming (Game Development on Mobile)  
+ 🌱 I’m currently learning advanced mobile development and AI integration  
+ 💬 Ask me about **Node.js, React, Firebase, Game Dev, or anything [here](https://github.com/nguyenngoctufpt)**  
  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 </div>
@@ -35,9 +37,14 @@
   <li>🚀 Founder & Developer of <strong>StudyMate AI</strong> – Nền tảng học tập ứng dụng Trí tuệ Nhân tạo</li>
   <li>🛠️ Hơn 20+ dự án cá nhân và nhóm với React, Node.js, Firebase</li>
   <li>🏆 Top Contributor trên các nền tảng GitHub & LeetCode</li>
-  <li>🎓 Sinh viên FPT University, chuyên ngành Kỹ thuật phần mềm</li>
-  <li>💡 Đam mê công nghệ, thiết kế trải nghiệm người dùng và xây dựng sản phẩm có ích cho cộng đồng</li>
+  <li>🎓 Sinh viên Cao đẳng FPT Polytechnic, chuyên ngành Lập trình mobile (Lập trình Game trên mobile)</li>
+  <li>🎮 Đam mê phát triển ứng dụng và trò chơi di động, tích hợp công nghệ AI</li>
+  <li>💡 Tư duy thiết kế sản phẩm và trải nghiệm người dùng xuất sắc</li>
 </ul>
+
+<div align="center">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7334050083421753345?collapsed=1" height="479" width="504" frameborder="0" allowfullscreen="" title="Bài đăng được nhúng"></iframe>
+</div>
 
 <hr/>
 
