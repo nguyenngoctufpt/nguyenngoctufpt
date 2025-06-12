@@ -43,7 +43,7 @@
 </ul>
 
 <div align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:share:7334050083421753345" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyen-ngoc-tu-3453062b3/" target="_blank">
     <img src="https://img.shields.io/badge/Xem%20bài%20đăng%20nổi%20bật%20trên%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post" />
   </a>
 </div>
