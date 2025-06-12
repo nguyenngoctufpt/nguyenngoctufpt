@@ -60,9 +60,9 @@
 <hr/>
 
 <h2 align="center">🐍 My Contributions Snake</h2>
+
 <div align="center">
-  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
+  <img src="https://raw.githubusercontent.com/nguyenngoctufpt/nguyenngoctufpt/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 <hr/>
