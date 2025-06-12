@@ -1,0 +1,30 @@
+name: 🐍 Generate Snake Contribution GIF
+
+on:
+  schedule:
+    - cron: '30 23 * * *' # Tự động chạy lúc 23:30 UTC mỗi ngày
+  workflow_dispatch: # Cho phép chạy thủ công từ GitHub UI
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nguyenngoctufpt
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake.gif
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: ./output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
