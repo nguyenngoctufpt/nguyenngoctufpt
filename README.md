@@ -14,21 +14,30 @@
 <a href="https://www.linkedin.com/in/nguyen-ngoc-tu-3453062b3/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+<a href="https://www.facebook.com/nguyenngoctu0101">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Student at **FPT Polytechnic College**
+🎓 Student at **FPT Education**
 🚀 Founder of **StudyMate AI**
 📱 Mobile Developer | 🎮 Game Developer
 🤖 AI Integration Specialist
 💼 Developed **20+ Personal & Team Projects**
 
-💬 Ask me about:
+---
 
-`React Native` `NodeJS` `Firebase` `Unity` `AI Integration`
+## 💼 Professional Experience
+
+* 🎬 **Creative Content Director – HIỆP HÒA NET**
+* 🚀 **Creative Director – Hiệp Hoà Express**
+* 🧑‍💻 **Main Content Manager – FPT Software Hà Nội**
+* 📱 **Mobile App Developer**
+* 🎮 **Mobile Game Developer**
 
 ---
 
@@ -61,16 +70,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project           | Description                  | Tech                      |
-| ----------------- | ---------------------------- | ------------------------- |
-| 🚀 StudyMate AI   | AI-powered learning platform | React + Firebase + OpenAI |
-| 🎮 Galaxy Shooter | 3D Shooting Game             | Unity + C#                |
-| 🛒 ShopSmart      | AI E-commerce Mobile App     | React Native + NodeJS     |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -86,10 +85,17 @@
 
 ## 🔗 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook)](https://www.facebook.com/profile.php?id=100045629954749)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/nguyenngoctu_203/)
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge\&logo=youtube)](https://www.youtube.com/channel/UCToVTwIX7_td0jGJdiU1VRw)
+<p align="center">
+<a href="https://www.facebook.com/nguyenngoctu0101">
+<img src="https://img.shields.io/badge/Facebook-NguyenNgocTu-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+<a href="https://www.instagram.com/nguyenngoctu_203/">
+<img src="https://img.shields.io/badge/Instagram-nguyenngoctu__203-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UCToVTwIX7_td0jGJdiU1VRw">
+<img src="https://img.shields.io/badge/Youtube-Channel-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+</p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B73FF,100:000DFF&height=120&section=footer"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"> <p> <strong>© 2025 Nguyen Ngoc Tu</strong><br> <em>Last updated: 2025-06-15 10:05:24 UTC by nguyenngoctufpt</em><br> <strong>⚠️ ALL RIGHTS RESERVED. COPYRIGHT BELONGS TO NGUYEN NGOC TU ⚠️</strong> </p> </div>
