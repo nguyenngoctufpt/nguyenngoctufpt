@@ -32,7 +32,7 @@
       <ul>
         <li>🎬 Creative Content Director @ <b>HIỆP HÒA NET</b></li>
         <li>🚀 Creative Director @ <b>Hiệp Hoà Express</b></li>
-        <li>🧑‍💻 Main Content Manager @ <b>FPT Software Hà Nội</b></li>
+        <li>🧑‍💻  @ <b>FPT Software Hà Nội</b></li>
         <li>📱 Freelance Mobile App Developer</li>
         <li>🎮 Independent Mobile Game Developer</li>
       </ul>
