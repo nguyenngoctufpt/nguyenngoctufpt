@@ -18,29 +18,54 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍💻 Giới thiệu</h3>
+      <h3>🚀 Profile Summary</h3>
       <ul>
-        <li>🎓 Sinh viên tại <b>FPT Education</b></li>
-        <li>🚀 Founder của <b>StudyMate AI</b></li>
-        <li>📱 Mobile & 🎮 Game Developer</li>
-        <li>🤖 Chuyên gia tích hợp AI</li>
-        <li>💼 Đã hoàn thành <b>20+ dự án</b> cá nhân & nhóm</li>
+        <li>🎓 <b>FPT Education</b> | Software Engineering</li>
+        <li>💡 Founder & Tech Lead @ <b>StudyMate AI</b></li>
+        <li>📱 <b>Multi-platform Developer</b> (Mobile, Web, Game)</li>
+        <li>🤖 AI Integration & Automation Specialist</li>
+        <li>💼 <b>20+ Projects</b> Delivered (Indie & Team)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Kinh nghiệm</h3>
+      <h3>💼 Professional Experience</h3>
       <ul>
-        <li>🎬 Creative Content Director @ <b>HIỆP HÒA NET</b></li>
-        <li>🚀 Creative Director @ <b>Hiệp Hoà Express</b></li>
-        <li>🧑‍💻  @ <b>FPT Software Hà Nội</b></li>
-        <li>📱 Freelance Mobile App Developer</li>
-        <li>🎮 Independent Mobile Game Developer</li>
+        <li>💻 <b>Mobile Developer</b> @ LTS Global Digital Services</li>
+        <li>🧑‍💻  Intern @ <b>FPT Software</b></li>
+        <li>🎬 Creative Director @ <b>Hiệp Hòa Express</b></li>
+        <li>📱 Freelance <b>Mobile App Developer</b></li>
+        <li>🎮 Independent <b>Game Developer</b></li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+## 📜 Certificates & Awards
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Professional Certificates</h3>
+      <ul>
+        <li>🛡️ <b>Google AI Essentials</b><br/><small>Issued by Google (Coursera)</small></li>
+        <li>⚙️ <b>Software Testing & Automation</b><br/><small>University of Minnesota</small></li>
+        <li>🔍 <b>Automated Analysis Specialist</b><br/><small>University of Minnesota</small></li>
+        <li>🛠️ <b>Google IT Support Professional</b><br/><small>Issued by Google</small></li>
+        <li>📜 <b>JavaScript Certified Developer</b></li>
+        <li>💻 <b>MOS Certificate</b><br/><small>FPT Polytechnic</small></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Honors & Activities</h3>
+      <ul>
+        <li>🥇 <b>Consolation Prize @ AI4Life 2025</b><br/><small>Northern Region Finals (Inter-campus)</small></li>
+        <li>🎖️ <b>Top 5 Best Teams</b><br/><small>AI4Life FPT Polytechnic Hanoi</small></li>
+        <li>🤝 <b>Advanced Soft Skills</b><br/><small>Professional Communication & Teamwork</small></li>
+        <li>🏃 <b>Poly Run Finisher (7KM)</b><br/><small>Exceeding the Limits Award</small></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Kỹ năng chuyên môn (Tech Stack)
 
